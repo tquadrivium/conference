@@ -1,102 +1,14 @@
 - 目录
-  - Chapter 1 Aquinas' Five Ways
-  - Chapter 2 The Contingency Cosmological Argument
-  - Chapter 3 The Kalam Argument for the Existence of God 
-  - Chapter 4 The Ontological Argument
-  - Chapter 5 Pascal's Wager
-  - Chapter 6 James' will to believe Argument
-  - Chapter 7 The Problem of Evil
-  - Chapter 8 The free will Defense to the Problem of Evil
-  - Chapter 9 St. Anselm on Free Choice and the Power to Sin 
-  - Chapter 10 Hume's Argument against Miracles 
-  - Chapter 11 The Euthyphro Dilemma
-  - Chapter 12 Nietzsche's Death of God
-  - Chapter 13 Ockham's Razor
-  - Chapter 14 Parmenides' Refutation of Change
-  - Chapter 15 McTaggart's Argument against the Reality of Time
-  - Chapter 16 Berkeley's Master Argument for Idealism
-  - Chapter 17 Kant's Refutation of Idealism
-  - Chapter 18 The Master Argument of Diodorus Cronus
-  - [Chapter 19 刘易斯对可能世界的论证 ](https://tquadrivium.github.io/DailyArguments/#/markdown/19.md)
-  - Chapter 20 A Reductionist Account of Personal Identity
-  - [Chapter 21 关于人格同一性的分裂事例的论证](https://tquadrivium.github.io/DailyArguments/#/markdown/21.md)
-  - [Chapter 22 忒修斯之船](https://tquadrivium.github.io/DailyArguments/#/markdown/22.md)
-  - Chapter 23 The Problem of Temporary Intrinsics
-  - Chapter 24 A Modern Modal Argument for the Soul
-  - Chapter 25 Two Arguments for the Harmlessness of Death
-  - Chapter 26 The Existence of Forms: Plato's Argument from the Possibility of Knowledge
-  - Chapter 27 Plato, Aristotle, and the Third Man Argument
-    Chapter 28 Logical Monism
-  - Chapter 29 The Maximality Paradox
-  - Chapter 30 An Argument for Free Will
-  - Chapter 31 Frankfurt's Refutation of the Principle of Alternative Possibilities 
-  - Chapter 32 Van Inwagen's Consequence Argument against Compatibilism
-  - Chapter 33 Fatalism 
-  - [Chapter 34 萨特关于自由的论证](https://tquadrivium.github.io/DailyArguments/#/markdown/34.md)
-  - Chapter 35 The Cogito Arguments of Descartes and Augustine 
-  - Chapter 36 The Cartesian Dreaming Argument for External?World Skepticism
-  - Chapter 37 The Transparency of Experience Argument
-  - Chapter 38 The Regress Argument for Skepticism
-  - Chapter 39 Moore's Anti?Skeptical Arguments
-  - Chapter 40 The Bias Paradox
-  - Chapter 41 Gettier's Argument against the Traditional Account of Knowledge
-  - Chapter 42 Putnam's Argument against Cultural Imperialism
-  - Chapter 43 Davidson on the Very Idea of a Conceptual Scheme
-  - Chapter 44 Quine's Two Dogmas of Empiricism 
-  - Chapter 45 Hume and the Problem of Induction 
-  - Chapter 46 Argument by Analogy in Thales and Anaximenes
-  - Chapter 47 Quine's Epistemology Naturalized
-  - Chapter 48 Sellars and the Myth of the given
-  - Chapter 49 Sellars' “Rylean Myth”
-  - Chapter 50 Aristotle and the Argument to End all Arguments 
-  - [Chapter 51 柏拉图理想国：正义带来幸福](https://tquadrivium.github.io/DailyArguments/#/markdown/51.md)
-  - Chapter 52 Aristotle's Function Argument
-  - Chapter 53 Aristotle's Argument that Goods are Irreducible
-  - Chapter 54 Aristotle's Argument for Perfectionism 
-  - Chapter 55 Categorical Imperative as the Source for Morality 
-  - Chapter 56 Kant on why Autonomy Deserves Respect
-  - Chapter 57 Mill's Proof of Utilitarianism
-  - Chapter 58 The Experience Machine Objection to Hedonism
-  - Chapter 59 The Error Theory Argument
-  - Chapter 60 Moore's Open Question Argument
-  - Chapter 61 Wolff's Argument for the Rejection of State Authority
-  - Chapter 62 Nozick's Taxation is Forced Labor Argument
-  - Chapter 63 Charity is Obligatory
-  - Chapter 64 The Repugnant Conclusion
-  - Chapter 65 Taurek on Numbers don't Count
-  - Chapter 66 Parfit's Leveling down Argument against Egalitarianism
-  - Chapter 67 Nozick's Wilt Chamberlain Argument
-  - [Chapter 68 自由派女权主义论证](https://tquadrivium.github.io/DailyArguments/#/markdown/68.md)
-  - [Chapter 69 基于边缘案例的动物道德地位论证](https://tquadrivium.github.io/DailyArguments/#/markdown/69.md)
-  - Chapter 70 The Ethical Vegetarianism Argument 
-  - [Chapter 71 汤姆森与著名小提琴家](https://tquadrivium.github.io/DailyArguments/#/markdown/71.md)
-  - [Chapter 72 马奎斯与堕胎的不正当性](https://tquadrivium.github.io/DailyArguments/#/markdown/72.md)
-  - [Chapter 73 托利论堕胎和杀婴](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
-  - Chapter 74 Rachels on Euthanasia
-  - Chapter 75 Leibniz' Argument for Innate Ideas
-  - Chapter 76 Descartes' Arguments for the Mind–Body Distinction
-  - Chapter 77 Princess Elisabeth and the Mind–Body Problem
-  - Chapter 78 Kripke's Argument for Mind–Body Property Dualism
-  - Chapter 79 The Argument from Mental Causation for Physicalism 
-  - Chapter 80 Davidson's Argument for Anomalous Monism
-  - Chapter 81 Putnam's Multiple Realization Argument against Type?Physicalism
-  - Chapter 82 The Supervenience Argument against Non?Reductive Physicalism
-  - Chapter 83 Ryle's Argument against Cartesian Internalism
-  - Chapter 84 Jackson's Knowledge Argument
-  - Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism
-  - [Chapter 86 查尔默斯的僵尸论证](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
-  - Chapter 87 The Argument from Revelation
-  - [Chapter 88 塞尔与中文屋](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
-  - [Chapter 89 卡尔·波普尔的划界论证](https://tquadrivium.github.io/DailyArguments/#/markdown/89.md)
-  - [Chapter 90 库恩的不可通约性论证](https://tquadrivium.github.io/DailyArguments/#/markdown/90.md)
-  - [Chapter 91 普特南无奇迹论证](https://tquadrivium.github.io/DailyArguments/#/markdown/91.md)
-  - [Chapter 92 伽利略自由落体](https://tquadrivium.github.io/DailyArguments/#/markdown/92.md)
-  - [Chapter 93 取消物理主义](https://tquadrivium.github.io/DailyArguments/#/markdown/93.md)
-  - Chapter 94 Wittgenstein's Private Language Argument
-  - Chapter 95 Fodor's Argument for Linguistic Nativism
-  - Chapter 96 Fodor and the Impossibility of Learning
-  - Chapter 97 Quine on the Indeterminacy of Translation
-  - Chapter 98 Davidson's Argument for the Principle of Charity 
-  - Chapter 99 Frege's Argument for Platonism 
-  - Chapter 100 Mathematical Platonism 
+  - 分析哲学
+    - [2020/12/3](/markdown/analysis/20201203/info.md)
+  - 人工智能哲学
+    - 2020/12/3
+  - 伦理学
+    - [2020/12/3](/markdown/ethics/20201203/info.md)
+  - 欧陆哲学
+    - 2020/12/3
+  - 逻辑学
+    - 2020/12/3
+  - 通识
+    - 2020/12/3
 

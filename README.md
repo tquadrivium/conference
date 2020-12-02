@@ -21,7 +21,7 @@
 项目成员主要是搜索近期的学术会议（信息或海报），将其分类，并编辑为固定的格式。
 
 ### 3.查看会议（内容实时更新）
-Gitee Pages（国内源）：
+Gitee Pages（国内源）：https://tquadrivium.gitee.io/conference
 
 Github Pages（国际源）：https://tquadrivium.github.io/DailyArguments/
 
@@ -59,10 +59,11 @@ Github Pages（国际源）：https://tquadrivium.github.io/DailyArguments/
 ### 7.关注我们
 
 <div align=center>
-<p>扫描下方二维码，或关注公众号「三艺四术」，然后回复关键词“每日哲论”，即可加入“每日哲论交流群”</p>
+<p>扫描下方二维码，或关注公众号「三艺四术」即可关注我们</p>
 <img src="res/qrcode.jpg" width="200" height= "200">
 <p>或者加入QQ群：1160995549</p>
 </div>
+
 
 ### 10.LICENSE
 
