@@ -29,7 +29,7 @@
 ### 3.查看会议（内容实时更新）
 Gitee Pages（国内源）：https://tquadrivium.gitee.io/conference
 
-Github Pages（国际源）：https://tquadrivium.github.io/DailyArguments/
+Github Pages（国际源）：https://tquadrivium.github.io/conference/
 
 ### 4.会议类别
 
