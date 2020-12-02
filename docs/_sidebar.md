@@ -1,10 +1,17 @@
 - 目录
-  - 分析哲学
-    - [2020/12/3](/markdown/analysis/20201203/info.md)
-  - 人工智能哲学
-  - 伦理学
-    - [2020/12/3](/markdown/ethics/20201203/info.md)
-  - 欧陆哲学
-  - 逻辑学
+  - 哲学
+    - 分析哲学
+      - [2020/12/3](/markdown/philosophy/analysis/20201203/info.md)
+    - 人工智能哲学
+    - 伦理学
+      - [2020/12/3](/markdown/philosophy/ethics/20201203/info.md)
+    - 欧陆哲学
+    - 逻辑学
+  - 计算机
+    - 机器学习
+    - 强化学习
+    - 计算机视觉
+    - 自然语言处理
+    - 通用人工智能
   - 通识
 

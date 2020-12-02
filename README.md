@@ -37,10 +37,18 @@ Github Pages（国际源）：https://tquadrivium.github.io/DailyArguments/
 
 - 哲学
   - 分析哲学
+    - [2020/12/3](/markdown/analysis/20201203/info.md)
+  - 人工智能哲学
   - 伦理学
+    - [2020/12/3](/markdown/ethics/20201203/info.md)
   - 欧陆哲学
   - 逻辑学
-  - 人工智能哲学
+- 计算机
+  - 机器学习
+  - 强化学习
+  - 计算机视觉
+  - 自然语言处理
+  - 通用人工智能
 - 通识
 
 ### 5.负责人
