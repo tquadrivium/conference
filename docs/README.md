@@ -37,10 +37,8 @@ Github Pages（国际源）：https://tquadrivium.github.io/conference/
 
 - 哲学
   - 分析哲学
-    - [2020/12/3](/markdown/analysis/20201203/info.md)
   - 人工智能哲学
   - 伦理学
-    - [2020/12/3](/markdown/ethics/20201203/info.md)
   - 欧陆哲学
   - 逻辑学
 - 计算机
@@ -73,7 +71,6 @@ Github Pages（国际源）：https://tquadrivium.github.io/conference/
 <div align=center>
 <p>扫描下方二维码，或关注公众号「三艺四术」即可关注我们</p>
 <img src="res/qrcode.jpg" width="200" height= "200">
-<p>或者加入QQ群：1160995549</p>
 </div>
 
 
